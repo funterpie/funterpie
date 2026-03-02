@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hey, I’m Muhammad Taha Sattar (Funter Pie) — an AI & Data Science student, backend engineer, and entrepreneur.<br><br>Founder & CEO of Alpha Orbit, a digital tech agency focused on innovation and scalable solutions.<br>Currently building AlphaSend — a real-time parcel delivery platform with live tracking, OTP verification, and smart logistics systems.<br>Explore: tahatradz.online<br><br>I build reliable systems using Python, FastAPI, Data science and focus on production-ready architecture — not tutorial-level code.
 
 
